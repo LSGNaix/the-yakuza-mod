@@ -327,7 +327,7 @@
     "UPGRADE_DESCRIPTION": " theyakuza:抓取 theyakuza:浓缩耐力饮料 。 NL 消耗 。"
   },
   "theYakuza:YakuzaFridayNight": {
-    "NAME": "星期五之夜",
+    "NAME": "周五夜未央",
     "DESCRIPTION": " theyakuza:小游戏 。 NL theyakuza:拓展 theyakuza:小游戏 列表 。",
     "UPGRADE_DESCRIPTION": " 固有 。 NL theyakuza:小游戏 。 NL theyakuza:拓展 theyakuza:小游戏 列表 。"
   },
@@ -340,7 +340,7 @@
     "DESCRIPTION": " theyakuza:小游戏 。 NL 每当玩 theyakuza:小游戏 时，获得1层 theyakuza:热血值 。"
   },
   "theYakuza:Yakuza4thChairman": {
-    "NAME": "第四任头领",
+    "NAME": "第四任头目",
     "DESCRIPTION": " theyakuza:热血值 上限提高 !M! 点。获得3层 theyakuza:热血值 。"
   },
   "theYakuza:YakuzaFuryOfTheAzureDragon": {
