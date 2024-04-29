@@ -42,14 +42,14 @@
     "NAME": "金块",
     "FLAVOR": "商务必备。",
     "DESCRIPTIONS": [
-      " #ytheyakuza:小游戏 的效果提高 #b50% 。"
+      " #y小游戏 的效果提高 #b50% 。"
     ]
   },
   "theYakuza:DragonScaleRelic": {
     "NAME": "龙纹",
     "FLAVOR": "感受我的咆哮吧。",
     "DESCRIPTIONS": [
-      " #ytheyakuza:热力 不会因失去生命而降低。 "
+      " #y热血值 不会因失去生命而降低。 "
     ]
   },
   "theYakuza:ManholeCoverRelic": {
@@ -63,35 +63,35 @@
     "NAME": "东城会的叛徒",
     "FLAVOR": "抱歉，阿锦。",
     "DESCRIPTIONS": [
-      "替换 #r东城会徽章 。 NL 战斗开始时，获得 #b2 层 #ytheyakuza:热力 。"
+      "替换 #r东城会徽章 。 NL 战斗开始时，获得 #b2 层 #y热力 。"
     ]
   },
   "theYakuza:MicrophoneRelic": {
     "NAME": "麦克风",
     "FLAVOR": "今天是钻石，我的24小时灰姑娘。",
     "DESCRIPTIONS": [
-      "每回合开始时失去 [E] 。每打出一张牌，玩一次 #ytheyakuza:小游戏 。"
+      "每回合开始时失去 [E] 。每打出一张牌，玩一次 #y小游戏 。"
     ]
   },
   "theYakuza:HardHatRelic": {
     "NAME": "硬帽子",
     "FLAVOR": "A school for youth's way of life. Creating Smiles",
     "DESCRIPTIONS": [
-      "每回合开始时获得 [E] 。无法再获得 #y力量 、 #y敏捷 和 #ytheyakuza:热力 。"
+      "每回合开始时获得 [E] 。无法再获得 #y力量 、 #y敏捷 和 #y热力 。"
     ]
   },
   "theYakuza:IrezumiRelic": {
     "NAME": "刺青",
     "FLAVOR": "像龙一样。",
     "DESCRIPTIONS": [
-      "每当获得 #ytheyakuza:热力 ，回复 #b1 点生命。"
+      "每当获得 #y热力 ，回复 #b1 点生命。"
     ]
   },
   "theYakuza:IdolsRodRelic": {
     "NAME": "偶像棒",
     "FLAVOR": "还要更多！",
     "DESCRIPTIONS": [
-      "玩 #ytheyakuza:小游戏 时有 #b20% 概率获得一瓶随机 #y普通药水 (每场战斗最多 #b2 瓶)。"
+      "玩 #y小游戏 时有 #b20% 概率获得一瓶随机 #y普通药水 (每场战斗最多 #b2 瓶)。"
     ]
   },
   "theYakuza:ThrowingGlovesRelic": {
@@ -112,14 +112,14 @@
     "NAME": "冴岛的外套",
     "FLAVOR": "虎皮外套，战斗中很有帮助。",
     "DESCRIPTIONS": [
-      "每当你的格挡被打破，获得 #b1 点 #ytheyakuza:复仇 和 #y敏捷 。"
+      "每当你的格挡被打破，获得 #b1 点 #y复仇 和 #y敏捷 。"
     ]
   },
   "theYakuza:AkiyamasVaultRelic": {
     "NAME": "秋山的金库",
     "FLAVOR": "从片叶遮身到腰缠万贯。",
     "DESCRIPTIONS": [
-      " #ytheyakuza:小游戏 额外产生 #b1 次效果。"
+      " #y小游戏 额外产生 #b1 次效果。"
     ]
   },
   "theYakuza:TojoBadgeRelicV2": {
@@ -203,14 +203,14 @@
     "NAME": "真拳徽章",
     "FLAVOR": "维吉尔韩国分尔。",
     "DESCRIPTIONS": [
-      "回合开始时，玩一次 #ytheyakuza:小游戏 。"
+      "回合开始时，玩一次 #y小游戏 。"
     ]
   },
   "theYakuza:KazamaBadgeRelic": {
     "NAME": "风间徽章",
     "FLAVOR": "向日葵的老大。",
     "DESCRIPTIONS": [
-      " #ytheyakuza:热力 最大值提高 #b1 点。"
+      " #y热力 最大值提高 #b1 点。"
     ]
   },
   "theYakuza:MajimaBadgeRelic": {
@@ -231,14 +231,14 @@
     "NAME": "龙道徽章",
     "FLAVOR": "晨光的继承者。",
     "DESCRIPTIONS": [
-      "使用 #y药水 时，将一张普通 #ytheyakuza:小游戏 牌加入手牌。"
+      "使用 #y药水 时，将一张普通 #y小游戏 牌加入手牌。"
     ]
   },
   "theYakuza:ShibusawaBadgeRelic": {
     "NAME": "涩泽徽章",
     "FLAVOR": "真龙的诞生。",
     "DESCRIPTIONS": [
-      "战斗开始时，获得 #b2 层 #ytheyakuza:热力 。"
+      "战斗开始时，获得 #b2 层 #y热力 。"
     ]
   },
   "theYakuza:ShimanoBadgeRelic": {
