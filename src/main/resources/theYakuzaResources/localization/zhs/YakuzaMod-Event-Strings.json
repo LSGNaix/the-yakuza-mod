@@ -19,14 +19,14 @@
     ]
   },
   "theYakuza:MajimaEvent": {
-    "NAME": "A sketchy old friend...",
+    "NAME": "旧损友...",
     "DESCRIPTIONS": [
-      "Through the streets of the city you came across the red district. NL You hear a familiar ~chuckle~ . NL A weird yakuza welcomes you with a smile and a shiv. NL ~Kiryu~ ~CHAN~ .",
-      "The Mad Dog of Shimano welcomes your spirit."
+      "你穿过城市里一片红灯区。 NL 你听到了熟悉的笑声。 NL 一名奇怪的黑社会成员笑着上前跟你打趣。 NL ~桐生老弟~ 。",
+      "岛野的疯狗敬佩你的精神。"
     ],
     "OPTIONS": [
-      "[Fight] #rFight #rthe #rstranger. #gGain #ga #gRandom #gBoss #gRelic.",
-      "[Flight] Escape the stranger."
+      "[留] #r与陌生人战斗。 #g获得一件随机BOSS遗物。 ",
+      "[溜] 逃离这名陌生人。"
     ]
   }
 }
