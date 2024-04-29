@@ -65,7 +65,7 @@
         "DESCRIPTIONS": ["回合开始时，如果敌人的意图是攻击，施加 #b1 层 易伤 ，否则施加 #b1 层 虚弱 。"]
 },
 "theYakuza:FridayNight": {
-        "NAME": "星期五之夜",
+        "NAME": "周五夜未央",
         "DESCRIPTIONS": [" 拓展 小游戏 的内容。 列表: NL - 本回合随机手牌耗能降低 #b1 点。 NL - 获得 #b1 层 #y多层护甲 和 #y金属化 。 NL - 获得 #b2 层 #y荆棘 。 NL - 获得 #b1 层 #y复仇 。 NL - 获得 #b1 层 #y躲闪 。 NL - 随机升级一张手牌。 NL - 获得 #b1 层 #y人工制品 。 NL - 获得一张任意颜色的普通牌，其具有 #y抹除 和 #y虚无 特性。 NL - 获得1瓶爆炸药水。 NL - 随机敌人获得 #b1 层 勒脖 。"]
 },
 "theYakuza:RealEstate": {
@@ -77,7 +77,7 @@
         "DESCRIPTIONS": ["每当玩 小游戏 时，获得 #b", " 层 热血值 。"]
 },
 "theYakuza:Chairman": {
-        "NAME": "第四任头领",
+        "NAME": "第四任头目",
         "DESCRIPTIONS": [" 热血值 最大值提升 #b", " 点。"]
 },
 "theYakuza:FuryOfTheAzureDragon": {
